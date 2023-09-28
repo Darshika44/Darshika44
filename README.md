@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm Darshika</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshika44&label=Profile%20views&color=0e75b6&style=flat" alt="darshika44" /> </p>
 
-- 🌱 I’m currently learning **backend development and DSA**
+- 🌱 I’m currently learning **Backend Development and DSA**
 
-- 👯 I’m looking to collaborate on **java and web projects**
+- 👯 I’m looking to collaborate on **Java and web projects**
 
 - 💬 Ask me about **Java and Web technologies**
 
 - 📫 How to reach me **darshikasoni44@gmail.com**
 
-- ⚡ Fun fact **I love fitness, book reading, traveling and learn new technologies**
+- ⚡ Fun fact **I love Fitness🏋️‍, Book Reading📒, Traveling🛫 and learn new Technologies👩‍💻**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/darshika soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshika soni" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/darshika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshika" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Darshika Soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshika soni" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/Darshika_Soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="darshika_soni" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/darshikasoni44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshikasoni44" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/arshi44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arshi44" height="30" width="40" /></a>
 </p>
 
