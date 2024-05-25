@@ -1,7 +1,7 @@
 [![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)](https://github.com/AbikMushyakho)
 
 <h1>Hi 👋, I'm Darshika</h1>
-<h3>A passionate full-stack developer from India</h3>
+<h3>A passionate web developer from India</h3>
 <!-- <h1 align="center">Hi 👋, I'm Darshika</h1>  -->
 <!-- <h3 align="center">A passionate full-stack developer from India</h3> -->
 <hr>
