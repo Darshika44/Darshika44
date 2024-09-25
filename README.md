@@ -1,7 +1,7 @@
 [![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)](https://github.com/AbikMushyakho)
 
 <h1>Hi 👋, I'm Darshika</h1>
-<h3>A passionate web developer from India</h3>
+<h3>A Passionate Mobile & Web Developer</h3>
 <!-- <h1 align="center">Hi 👋, I'm Darshika</h1>  -->
 <!-- <h3 align="center">A passionate full-stack developer from India</h3> -->
 <hr>
@@ -11,11 +11,11 @@
 
 <br>
 
-- 🌱 I’m currently learning **Backend Development and DSA**
+- 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Java and web projects**
+- 👯 I’m looking to collaborate on **Flutter Projects**
 
-- 💬 Ask me about **Java and Web technologies**
+- 💬 Ask me about **Flutter and Firebase**
 
 - 📫 How to reach me **darshikasoni44@gmail.com**
 
