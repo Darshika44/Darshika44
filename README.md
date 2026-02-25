@@ -17,7 +17,9 @@
 
 <br>
 
-- 🌱 I’m currently learning **Flutter**
+<!-- - 🌱 I’m currently learning **Flutter**  -->
+
+- 👩🏻‍💻 I’m currently working on **Flutter**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
@@ -25,7 +27,7 @@
 
 - 📫 How to reach me **darshikasoni44@gmail.com**
 
-- ⚡ Fun fact **I love Fitness🏋️‍, Book Reading📒, Traveling🛫 and learn new Technologies👩‍💻**
+- ⚡ Fun fact **I enjoy Coding💻, Fitness🏋️‍, Book Reading📒, and Traveling🛫**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
