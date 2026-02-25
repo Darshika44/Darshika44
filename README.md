@@ -1,4 +1,5 @@
-[![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)](https://github.com/AbikMushyakho)
+[![MasterHead](https://raw.githubusercontent.com/darshika44/darshika44/main/header.png)](https://github.com/darshika44)
+<!-- [![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)](https://github.com/AbikMushyakho)  -->
 
 <h1>Hi 👋, I'm Darshika</h1>
 <h3>A Passionate Mobile & Web Developer</h3>
