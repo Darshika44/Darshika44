@@ -4,18 +4,18 @@
 <!-- <h1>Hi 👋, I'm Darshika</h1>
 <h3>A Passionate Mobile & Web Developer</h3> -->
 
-<h3>About Me</h3>
+<h2>About Me</h2>
 
 <!-- <h1 align="center">Hi 👋, I'm Darshika</h1>  -->
 <!-- <h3 align="center">A passionate full-stack developer from India</h3> -->
 
-<hr>
+<!-- <hr> -->
 
 <!-- <img align="right" alt="Coding" width="380" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshika44&label=Profile%20views&color=0e75b6&style=flat" alt="darshika44" /> </p> -->
 
-<!-- <br> -->
+<br>
 
 <!-- - 🌱 I’m currently learning **Flutter**  -->
 
